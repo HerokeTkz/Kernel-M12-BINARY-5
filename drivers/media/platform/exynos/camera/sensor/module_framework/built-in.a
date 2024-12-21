@@ -1,0 +1,13 @@
+!<thin>
+//                                              118       `
+is-interface-sensor.o/
+is-interface-actuator.o/
+is-control-sensor.o/
+is-control-actuator.o/
+is-device-sensor-peri.o/
+
+/0              0           0     0     644     805176    `
+/23             0           0     0     644     456744    `
+/48             0           0     0     644     494560    `
+/69             0           0     0     644     432376    `
+/92             0           0     0     644     616232    `

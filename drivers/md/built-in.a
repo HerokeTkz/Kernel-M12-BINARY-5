@@ -1,0 +1,53 @@
+!<thin>
+//                                              352       `
+dm-uevent.o/
+dm.o/
+dm-table.o/
+dm-target.o/
+dm-linear.o/
+dm-stripe.o/
+dm-ioctl.o/
+dm-io.o/
+dm-kcopyd.o/
+dm-sysfs.o/
+dm-stats.o/
+dm-rq.o/
+dm-builtin.o/
+dm-bufio.o/
+dm-crypt.o/
+dm-default-key.o/
+dm-snap.o/
+dm-exception-store.o/
+dm-snap-transient.o/
+dm-snap-persistent.o/
+dm-verity-fec.o/
+dm-verity-target.o/
+dm-verity-debug.o/
+alta_bigdata.o/
+dm-bow.o/
+
+/0              0           0     0     644     188768    `
+/13             0           0     0     644     517688    `
+/19             0           0     0     644     328512    `
+/31             0           0     0     644     208696    `
+/44             0           0     0     644     194304    `
+/57             0           0     0     644     216984    `
+/70             0           0     0     644     362008    `
+/82             0           0     0     644     239528    `
+/91             0           0     0     644     281080    `
+/104            0           0     0     644     194680    `
+/116            0           0     0     644     311224    `
+/128            0           0     0     644     258264    `
+/137            0           0     0     644     177992    `
+/151            0           0     0     644     400712    `
+/163            0           0     0     644     581592    `
+/175            0           0     0     644     195432    `
+/193            0           0     0     644     425256    `
+/204            0           0     0     644     196384    `
+/226            0           0     0     644     164224    `
+/247            0           0     0     644     213848    `
+/269           /0           0     0     644     214424    `
+/286            0           0     0     644     297176    `
+/306            0           0     0     644     212216    `
+/325            0           0     0     644     182672    `
+/341            0           0     0     644     303528    `
