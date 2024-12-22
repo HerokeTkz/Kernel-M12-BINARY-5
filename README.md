@@ -16,21 +16,3 @@ Video                   | 1080p@30fps
 USB                     | USB Type-C 2.0
 Battery 				| Li-Po 5000 mAh, non-removable
 Power                   | 15W
-
-
-<img src="device.png" alt="Samsung M12" style="height: 554px; width:738px;"/>
-
-# Build
-1. clone repo
-```
-git clone https://github.com/theshoqanebi/android_samsung_m12_kernel.git
-```
-2. clone toolchain
-```
-git clone https://github.com/theshoqanebi/aarch64-linux-android-4.9.git android_samsung_m12_kernel/toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
-git clone https://github.com/theshoqanebi/clang-r353983c.git android_samsung_m12_kernel/toolchain/clang/host/linux-x86/clang-r353983c
-```
-3. build kernel (output path = `arch/arm64/boot/Image`)
-```
-bash build_kernel.sh
-```
