@@ -371,7 +371,7 @@ KBUILD_HOSTLDLIBS   := $(HOST_LFS_LIBS) $(HOSTLDLIBS)
 
 # Make variables (CC, etc...)
 LD		= $(CROSS_COMPILE)ld
-CC              = $(srctree)/aosp-toolchain/clang/host/linux-x86/clang-r437112/bin/clang
+CC              = $(srctree)/aosp-toolchain/clang/host/linux-x86/clang-r416183c/bin/clang
 CPP		= $(CC) -E
 AR		= $(CROSS_COMPILE)ar
 NM		= $(CROSS_COMPILE)nm
